@@ -1,0 +1,105 @@
+08/31/2026 11:55:41 PM: INFO: ====== WebDriver manager ======
+08/31/2026 11:55:43 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/31/2026 11:55:45 PM: INFO: There is no [win64] chromedriver "151.0.7922.138" for browser google-chrome "151.0.7922" in cache
+08/31/2026 11:55:46 PM: INFO: There is no [win64] chromedriver "151.0.7922.138" for browser google-chrome "151.0.7922" in cache
+08/31/2026 11:55:46 PM: INFO: Get LATEST chromedriver version for google-chrome
+08/31/2026 11:55:46 PM: INFO: WebDriver version 151.0.7922.138 selected
+08/31/2026 11:55:46 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+08/31/2026 11:55:46 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+08/31/2026 11:55:47 PM: INFO: Driver downloading response is 200
+08/31/2026 11:55:52 PM: INFO: Driver has been saved in cache [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138]
+08/31/2026 11:55:56 PM: INFO: **** Starting Test_002_E2E_Checkout ****
+08/31/2026 11:56:02 PM: INFO: Logged in successfully
+08/31/2026 11:56:14 PM: INFO: ====== WebDriver manager ======
+08/31/2026 11:56:16 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+08/31/2026 11:56:20 PM: INFO: **** Starting Test_001_Login ****
+08/31/2026 11:56:20 PM: INFO: Navigating to https://automationexercise.com/
+08/31/2026 11:56:24 PM: INFO: Entering credentials and clicking login
+08/31/2026 11:56:29 PM: ERROR: **** Login Test Failed: Title Mismatch ****
+09/01/2026 09:06:59 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:07:07 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/01/2026 09:07:12 PM: INFO: Get LATEST chromedriver version for google-chrome
+09/01/2026 09:07:12 PM: INFO: WebDriver version 151.0.7922.138 selected
+09/01/2026 09:07:12 PM: INFO: Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+09/01/2026 09:07:12 PM: INFO: About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/151.0.7922.138/win64/chromedriver-win64.zip
+09/01/2026 09:07:13 PM: INFO: Driver downloading response is 200
+09/01/2026 09:07:19 PM: INFO: Driver has been saved in cache [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138]
+09/01/2026 09:07:24 PM: INFO: **** Starting Test_002_E2E_Checkout ****
+09/01/2026 09:07:40 PM: INFO: Logged in successfully
+09/01/2026 09:08:02 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:08:05 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:08:09 PM: INFO: **** Starting Test_001_Login ****
+09/01/2026 09:08:09 PM: INFO: Navigating to https://automationexercise.com/
+09/01/2026 09:08:22 PM: INFO: Entering credentials and clicking login
+09/01/2026 09:08:29 PM: ERROR: **** Login Test Failed: Title Mismatch ****
+09/01/2026 09:22:58 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:23:00 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:23:03 PM: INFO: **** Starting Test_002_E2E_Checkout ****
+09/01/2026 09:23:11 PM: INFO: Logged in successfully
+09/01/2026 09:23:16 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:23:17 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:23:19 PM: INFO: **** Starting Test_001_Login ****
+09/01/2026 09:23:19 PM: INFO: Navigating to https://automationexercise.com/
+09/01/2026 09:23:20 PM: INFO: Entering credentials and clicking login
+09/01/2026 09:23:29 PM: INFO: **** Login Test Passed ****
+09/01/2026 09:28:43 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:28:45 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:28:47 PM: INFO: **** Starting Test_002_E2E_Checkout ****
+09/01/2026 09:28:56 PM: INFO: Logged in successfully
+09/01/2026 09:28:57 PM: INFO: Product added to cart via JS Click
+09/01/2026 09:29:16 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:29:17 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:29:20 PM: INFO: **** Starting Test_001_Login ****
+09/01/2026 09:29:30 PM: INFO: **** Login Test Passed ****
+09/01/2026 09:40:57 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:40:58 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:41:01 PM: INFO: **** Starting Test_002_E2E_Checkout ****
+09/01/2026 09:41:12 PM: INFO: Logged in successfully
+09/01/2026 09:41:12 PM: INFO: Product added to cart
+09/01/2026 09:41:19 PM: INFO: Navigated to Cart
+09/01/2026 09:41:26 PM: INFO: Order placed
+09/01/2026 09:41:26 PM: INFO: **** E2E Checkout Test Passed ****
+09/01/2026 09:41:29 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:41:30 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:41:32 PM: INFO: **** Starting Test_001_Login ****
+09/01/2026 09:41:42 PM: INFO: **** Login Test Passed ****
+09/01/2026 09:51:51 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:51:52 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:51:55 PM: INFO: **** Starting Search Product Test ****
+09/01/2026 09:52:18 PM: INFO: Search test passed
+09/01/2026 09:52:20 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:52:21 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:52:23 PM: INFO: **** Starting Contact Us Test ****
+09/01/2026 09:52:33 PM: INFO: Contact Us form test PASSED
+09/01/2026 09:52:36 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:52:37 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:52:39 PM: INFO: **** Starting Test_002_E2E_Checkout ****
+09/01/2026 09:52:46 PM: INFO: Logged in successfully
+09/01/2026 09:52:46 PM: INFO: Product added to cart
+09/01/2026 09:52:51 PM: INFO: Navigated to Cart
+09/01/2026 09:52:58 PM: INFO: Order placed
+09/01/2026 09:52:58 PM: INFO: **** E2E Checkout Test Passed ****
+09/01/2026 09:53:01 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:53:02 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:53:04 PM: INFO: **** Starting Test_001_Login ****
+09/01/2026 09:53:11 PM: INFO: **** Login Test Passed ****
+09/01/2026 09:53:36 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:53:37 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:53:39 PM: INFO: **** Starting Search Product Test ****
+09/01/2026 09:53:56 PM: INFO: Search test passed
+09/01/2026 09:54:00 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:54:01 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:54:03 PM: INFO: **** Starting Contact Us Test ****
+09/01/2026 09:54:11 PM: INFO: Contact Us form test PASSED
+09/01/2026 09:54:13 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:54:14 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:54:17 PM: INFO: **** Starting Test_002_E2E_Checkout ****
+09/01/2026 09:54:29 PM: INFO: Logged in successfully
+09/01/2026 09:54:29 PM: INFO: Product added to cart
+09/01/2026 09:54:33 PM: INFO: Navigated to Cart
+09/01/2026 09:54:41 PM: INFO: Order placed
+09/01/2026 09:54:41 PM: INFO: **** E2E Checkout Test Passed ****
+09/01/2026 09:54:44 PM: INFO: ====== WebDriver manager ======
+09/01/2026 09:54:45 PM: INFO: Driver [C:\Users\ganga\.wdm\drivers\chromedriver\win64\151.0.7922.138\chromedriver-win64/chromedriver.exe] found in cache by browser version
+09/01/2026 09:54:48 PM: INFO: **** Starting Test_001_Login ****
+09/01/2026 09:54:58 PM: INFO: **** Login Test Passed ****
