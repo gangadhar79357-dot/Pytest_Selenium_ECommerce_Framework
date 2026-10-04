@@ -1,0 +1,21 @@
+# Python cache files (created automatically, never needed in Git)
+__pycache__/
+*.pyc
+ 
+# Pytest cache
+.pytest_cache/
+ 
+# Virtual environment folders
+venv/
+.venv/
+env/
+ 
+# Test outputs (regenerated every run)
+reports/
+screenshots/
+*.log
+allure-results/
+ 
+# Editor settings
+.vscode/
+.idea/
